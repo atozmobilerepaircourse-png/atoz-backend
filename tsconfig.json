@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "baseUrl": ".",
@@ -18,4 +19,14 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
   ]
+=======
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "commonjs",
+    "rootDir": "./",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "strict": false
+  }
+>>>>>>> 94e8c69d2202cae0a4e96803e1676e78e7b93176
 }
