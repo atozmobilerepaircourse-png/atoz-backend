@@ -91,7 +91,7 @@
     "typescript": "~5.9.2"
   },
   "private": true
-=======
+
   "name": "atoz-backend",
   "version": "1.0.0",
   "main": "dist/index.js",
@@ -106,5 +106,4 @@
     "typescript": "^5.0.0",
     "ts-node": "^10.9.1"
   }
->>>>>>> 94e8c69d2202cae0a4e96803e1676e78e7b93176
-}
+ 
